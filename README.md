@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sabahattin Ay</h1>
-- 📫 How to reach me </h5> sabahattinay57@gmail.com</h5>
+- 📫 How to reach me:  </h3> sabahattinay57@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
