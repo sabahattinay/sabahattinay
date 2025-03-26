@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabahattin Ay</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">MIS Student</h3>
 
 - 📫 How to reach me **info@sabahattinay.dev**
 
