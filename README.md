@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabahattin Ay</h1>
 <h3 align="center">MIS Student</h3>
 
-- 📫 How to reach me **info@sabahattinay.dev**
+- 📫 How to reach me **sabahattinay57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
